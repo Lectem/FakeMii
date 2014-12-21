@@ -1,0 +1,2 @@
+node FakeMii.js
+pause
