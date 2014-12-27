@@ -1,10 +1,10 @@
 #FakeMii
 
-A Simple proxy for 3DS/N3DS (and probably other nintendo devices), working on Node.js. 
+A Simple proxy tamper for 3DS/N3DS (and probably other nintendo devices), working on Node.js. 
 This proxy will fake the nintendo connection test so that you can use it on a WLAN without internet.
 It is useful if you don't have a router or an internet AP, and wish to use the Wifi anyway. (FTP, netloader, ...)
 
-At the moment any page will send a 404 error, but in the future it should also be able to act as a real proxy, but blocking the updates servers.
+Any other page will send a 404 error.
 
 
 ##HOWTO
