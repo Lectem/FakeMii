@@ -42,5 +42,8 @@ Any other page will send a 404 error.
 2. Start the hosted network with `netsh wlan start hostednetwork`
 3. Stop the hosted network with `netsh wlan stop hostednetwork`
 
+###Hosting a WLAN on linux
+This is usually done with `hostapd`.
+An overview of the tool can be found [here](https://wiki.archlinux.org/index.php/Software_access_point)
 
-Thanks to cell9 of #3dsdev for giving me his own server
+Thanks to cell9 of #3dsdev for giving me his own server script
